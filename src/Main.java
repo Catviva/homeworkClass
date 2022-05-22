@@ -17,6 +17,10 @@ public class Main {
         System.out.println("TheVersionsOfUs.getPublishingYear() = " + TheVersionsOfUs.getPublishingYear());
 
 
+        System.out.println("TheVersionsOfUs.equals(TheAlchemist) = " + TheVersionsOfUs.equals(TheAlchemist));
+        System.out.println("LauraBarnell.equals(PauloCoelho) = " + LauraBarnell.equals(PauloCoelho));
+
+
     }
 
 
